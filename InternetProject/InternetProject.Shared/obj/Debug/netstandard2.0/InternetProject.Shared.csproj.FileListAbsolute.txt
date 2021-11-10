@@ -1,0 +1,15 @@
+C:\Users\hamme\source\repos\InternetProject\InternetProject.Shared\bin\Debug\netstandard2.0\InternetProject.Shared.deps.json
+C:\Users\hamme\source\repos\InternetProject\InternetProject.Shared\bin\Debug\netstandard2.0\InternetProject.Shared.dll
+C:\Users\hamme\source\repos\InternetProject\InternetProject.Shared\bin\Debug\netstandard2.0\InternetProject.Shared.pdb
+C:\Users\hamme\source\repos\InternetProject\InternetProject.Shared\obj\Debug\netstandard2.0\InternetProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hamme\source\repos\InternetProject\InternetProject.Shared\obj\Debug\netstandard2.0\InternetProject.Shared.AssemblyInfoInputs.cache
+C:\Users\hamme\source\repos\InternetProject\InternetProject.Shared\obj\Debug\netstandard2.0\InternetProject.Shared.AssemblyInfo.cs
+C:\Users\hamme\source\repos\InternetProject\InternetProject.Shared\obj\Debug\netstandard2.0\InternetProject.Shared.dll
+C:\Users\hamme\source\repos\InternetProject\InternetProject.Shared\obj\Debug\netstandard2.0\InternetProject.Shared.pdb
+C:\Users\hamme\source\repos\InternetProject\InternetProject.Shared\obj\Debug\netstandard2.0\InternetProject.Shared.csprojAssemblyReference.cache
+E:\Code\InternetProject\InternetProject.Shared\obj\Debug\netstandard2.0\InternetProject.Shared.csprojResolveAssemblyReference.cache
+E:\Code\InternetProject\InternetProject.Shared\obj\Debug\netstandard2.0\InternetProject.Shared.csproj.CoreCompileInputs.cache
+E:\Code\InternetProject\InternetProject.Shared\obj\Debug\netstandard2.0\InternetProject.Shared.AssemblyInfoInputs.cache
+E:\Code\InternetProject\InternetProject.Shared\obj\Debug\netstandard2.0\InternetProject.Shared.AssemblyInfo.cs
+E:\Code\InternetProject\InternetProject.Shared\obj\Debug\netstandard2.0\InternetProject.Shared.dll
+E:\Code\InternetProject\InternetProject.Shared\obj\Debug\netstandard2.0\InternetProject.Shared.pdb

@@ -1,0 +1,13 @@
+@page
+@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
+<p>jesus fucking christ</p>
+<b>the concerts starts at @DateTime.Now</b>
+@{ 
+    var i = 2 + 3;
+}
+<b>jesus @i</b>
+<h2>
+    @Configuration["Message"]
+
+</h2>

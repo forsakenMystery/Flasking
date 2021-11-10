@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Home page</title>
+    </head>
+    <body>
+        <h1>Home Page!</h1>
+        <p>{{content}}</p>
+        <p>{{r}}</p>
+        {% for _ in range(0, 10) %}
+            <p>Hello</p>
+        {% endfor %}
+        {% for x in range(0, 10) %}
+        {% if x%2 == 0 %}
+            <p>on odd {{x}}</p>
+            {% endif %}
+        {% endfor %}
+
+        {% for x in listing %}
+            <p>{{x}}</p>
+        {% endfor %}
+    </body>
+</html>

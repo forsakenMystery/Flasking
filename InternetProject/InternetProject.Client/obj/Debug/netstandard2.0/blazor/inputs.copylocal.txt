@@ -1,0 +1,8 @@
+C:\Users\hamme\.nuget\packages\microsoft.aspnetcore.blazor\0.4.0\lib\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\hamme\.nuget\packages\microsoft.aspnetcore.blazor.browser\0.4.0\lib\netstandard2.0\Microsoft.AspNetCore.Blazor.Browser.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.dependencyinjection\2.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.dependencyinjection.abstractions\2.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hamme\.nuget\packages\newtonsoft.json\11.0.2\lib\netstandard2.0\Newtonsoft.Json.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.componentmodel\4.3.0\lib\netstandard1.3\System.ComponentModel.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.componentmodel.annotations\4.5.0\lib\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\hamme\source\repos\InternetProject\InternetProject.Shared\bin\Debug\netstandard2.0\InternetProject.Shared.dll
